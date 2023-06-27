@@ -12,7 +12,7 @@
 
 ### :man_technologist: &nbsp; Hire Me :
 
-- 🙇 Before you is a homosapien in a relentless persuit to build technologies that provide real social and economic impact.
+- 🙇 Before you is a homo sapien in a relentless persuit to build technologies that provide real social and economic impact.
 - 🔭 I'm working as a Software Engineer with 10+ years of experience.
 - 🌱 Exploring Technical Content Writing, [view my articles](http://www.longluo.me)
 - 🛠️ I have built lots of projects, [view my projects](http://www.longluo.me/works/)
