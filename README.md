@@ -1,18 +1,26 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">My Lord, May I, If I may?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <h3 align="center">A passionate programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=longluo&style=flat-square&color=blue" alt=""></p>
 
-![](./dist/github-contribution-grid-snake.svg)
+---
 
-### :man_technologist: &nbsp;About Me :
+![Github Streak](./dist/github-contribution-grid-snake.svg)
 
+---
 
-- 🔭 I’m working as a Software Engineer.
+### :man_technologist: &nbsp; Hire Me :
+
+- 🙇 Before you is a homosapien in a relentless persuit to build technologies that provide real social and economic impact.
+- 🔭 I'm working as a Software Engineer with 10+ years of experience.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-longluo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/longluo)
+- 🛠️ I have built lots of projects, [view my projects](http://www.longluo.me/works/)
+- 💼 I'm currently available for hire or open to new job opportunities. 
+- 📫 Contact me: <a target="_blank"
+href="mailto:longluo2005@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 ---
 
@@ -21,25 +29,34 @@
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="Gcc" alt="Gcc" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
+<!--START_SECTION:waka-->
+## 👨‍👨‍👦‍👦 Visitor count
+<img src="https://profile-counter.glitch.me/longluo/count.svg" />
+<!--END_SECTION:waka-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=longluo&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longluo&layout=compact&theme=vision-friendly-dark)](https://github.com/longluo/github-readme-stats)
+### 🔥 &nbsp; My Github Statistics:
+
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=longluo&show_icons=true&theme=merko" alt="Frank Luo" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=longluo&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Frank Luo" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longluo&langs_count=12&layout=compact&theme=vue"</p>
 
 ---
 
