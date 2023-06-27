@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=longluo&style=flat-square&color=blue" alt=""></p>
 
-![](./assets/github-contribution-grid-snake.svg)
+![](./dist/github-contribution-grid-snake.svg)
 
 ### :man_technologist: &nbsp;About Me :
 
