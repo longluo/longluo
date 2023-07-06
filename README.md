@@ -65,6 +65,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 ### ✍️ Blog Posts : 
 - [CORDIC算法：一种高效计算三角函数值的方法](http://www.longluo.me/blog/2023/06/07/CORDIC-algorithm/)
 - [我们常见的地图是如何绘制的？墨卡托投影是什么？](http://www.longluo.me/blog/2023/05/20/The-Mercator-Projection/)
+- [最短路径问题：重新发明 Dijkstra 算法](http://www.longluo.me/blog/2022/09/03/Dijkstra/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
