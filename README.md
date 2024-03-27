@@ -68,6 +68,10 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 - [我们常见的地图是如何绘制的？墨卡托投影是什么？](http://www.longluo.me/blog/2023/05/20/the-mercator-projection/)
 - [5分钟掌握矩阵乘法的Strassen算法](http://www.longluo.me/blog/2019/06/21/strassens-matrix-multiplication-algorithm/)
 - [最短路径问题：重新发明 Dijkstra 算法](http://www.longluo.me/blog/2022/09/03/dijkstra/)
+- [9种求斐波那契数(Fibonacci Numbers)的算法](http://www.longluo.me/blog/2021/07/24/program-for-nth-fibonacci-number/)
+- [超大数字的四则运算是如何实现的呢？](http://www.longluo.me/blog/2019/09/20/the-algorithm-of-large-number-operations/)
+- [9 Approaches to Solve LeetCode 287 Problem](http://www.longluo.me/blog/2022/02/18/leetcode-find-the-duplicate-number/)
+- [大数乘法的快速傅里叶变换(FFT) 和 快速数论变换(NTT)解法](http://www.longluo.me/blog/2022/04/07/leetcode-multiply-strings/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
