@@ -63,6 +63,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 ---
 
 ### ✍️ Blog Posts : 
+- [正态分布(Normal Distribution)公式为什么长这样？](https://www.longluo.me/blog/2024/04/27/normal-distribution/) 
 - [2024 阿里巴巴全球数学竞赛预选赛 试题解答](https://www.longluo.me/blog/2024/04/16/2024-alibaba-global-mathematics-competition-qualifying-round/) 
 - [参数归约算法(Argument Reduction)：如何在浮点数环境下计算超大数字的三角函数值？](http://www.longluo.me/blog/2023/09/16/argument-range-reduction/) 
 - [CORDIC算法：一种高效计算三角函数值的方法](http://www.longluo.me/blog/2023/06/07/CORDIC-algorithm/)
