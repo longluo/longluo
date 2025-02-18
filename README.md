@@ -63,10 +63,14 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 ---
 
 ### ✍️ Blog Posts : 
-- [正态分布(Normal Distribution)公式为什么长这样？](https://www.longluo.me/blog/2024/04/27/normal-distribution/) 
-- [2024 阿里巴巴全球数学竞赛预选赛 试题解答](https://www.longluo.me/blog/2024/04/16/2024-alibaba-global-mathematics-competition-qualifying-round/) 
-- [参数归约算法(Argument Reduction)：如何在浮点数环境下计算超大数字的三角函数值？](http://www.longluo.me/blog/2023/09/16/argument-range-reduction/) 
-- [CORDIC算法：一种高效计算三角函数值的方法](http://www.longluo.me/blog/2023/06/07/CORDIC-algorithm/)
+- [为什么 2024 年会有 366 天？](https://www.longluo.me/blog/normal-distribution)
+- [数学之美：几何视角下的高斯积分(Gaussian Integral)](https://www.longluo.me/blog/gaussian-integral/)
+- [从最小二乘法到正态分布：高斯是如何找到失踪的谷神星的？](https://www.longluo.me/blog/least-squares-and-normal-distribution/)
+- [正态分布(Normal Distribution)公式为什么长这样？](https://www.longluo.me/blog/normal-distribution/)
+- [高速公路编号背后的数学密码](https://www.longluo.me/blog/decode-the-highway-system-numbers/)
+- [2024 阿里巴巴全球数学竞赛预选赛 试题解答](https://www.longluo.me/blog/2024-alibaba-global-mathematics-competition-qualifying-round/) 
+- [参数归约算法(Argument Reduction)：如何在浮点数环境下计算超大数字的三角函数值？](http://www.longluo.me/blog/argument-range-reduction/) 
+- [CORDIC算法：一种高效计算三角函数值的方法](http://www.longluo.me/blog/cordic/)
 - [我们常见的地图是如何绘制的？墨卡托投影是什么？](http://www.longluo.me/blog/the-mercator-projection/)
 - [5分钟掌握矩阵乘法的Strassen算法](http://www.longluo.me/blog/strassens-matrix-multiplication-algorithm/)
 - [最短路径问题：重新发明 Dijkstra 算法](http://www.longluo.me/blog/dijkstra/)
