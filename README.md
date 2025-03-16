@@ -63,6 +63,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 ---
 
 ### ✍️ Blog Posts : 
+- [热机的效率上限在哪里？解析卡诺循环（Carnot Cycle）](https://www.longluo.me/blog/carnot-cycle/)
 - [为什么 2024 年会有 366 天？](https://www.longluo.me/blog/normal-distribution)
 - [数学之美：几何视角下的高斯积分(Gaussian Integral)](https://www.longluo.me/blog/gaussian-integral/)
 - [从最小二乘法到正态分布：高斯是如何找到失踪的谷神星的？](https://www.longluo.me/blog/least-squares-and-normal-distribution/)
