@@ -63,6 +63,8 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 ---
 
 ### ✍️ Blog Posts : 
+- [如何从零推导阶乘的斯特林公式(Stirling's Formula)?](https://www.longluo.me/blog/stirlings-formula/)
+- [2010年江西高考理科数学压轴题](https://www.longluo.me/blog/2010-jiangxi-gaokao-math-exam-final-question/)
 - [热机的效率上限在哪里？解析卡诺循环（Carnot Cycle）](https://www.longluo.me/blog/carnot-cycle/)
 - [为什么 2024 年会有 366 天？](https://www.longluo.me/blog/normal-distribution)
 - [数学之美：几何视角下的高斯积分(Gaussian Integral)](https://www.longluo.me/blog/gaussian-integral/)
