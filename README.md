@@ -1,6 +1,6 @@
 <h1 align="center">My Lord, May I, If I may?<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<h3 align="center">A passionate programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China</h3>
+<h3 align="center">A passionate programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=longluo&style=flat-square&color=blue" alt=""></p>
 
@@ -14,10 +14,9 @@
 
 - 🙇 Before you is a homo sapien in a relentless persuit to build technologies that provide real social and economic impact.
 - 🔭 I'm working as a Software Engineer with 10+ years of experience.
-- 🌱 Exploring Technical Content Writing, [view my articles](http://www.longluo.me)
-- 🛠️ I have built lots of projects, [view my projects](http://www.longluo.me/works/)
+- 🌱 Exploring Technical Content Writing, [view my articles](https://www.longluo.me)
+- 🛠️ I have built lots of projects, [view my projects](https://www.longluo.me/works/)
 - :book: I love reading books, especially Math and Physics books.
-- 💼 I'm currently available for hire or open to new job opportunities. 
 - 📫 Contact me: <a target="_blank"
 href="mailto:longluo2005@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
@@ -72,15 +71,15 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 - [正态分布(Normal Distribution)公式为什么长这样？](https://www.longluo.me/blog/normal-distribution/)
 - [高速公路编号背后的数学密码](https://www.longluo.me/blog/decode-the-highway-system-numbers/)
 - [2024 阿里巴巴全球数学竞赛预选赛 试题解答](https://www.longluo.me/blog/2024-alibaba-global-mathematics-competition-qualifying-round/) 
-- [参数归约算法(Argument Reduction)：如何在浮点数环境下计算超大数字的三角函数值？](http://www.longluo.me/blog/argument-range-reduction/) 
-- [CORDIC算法：一种高效计算三角函数值的方法](http://www.longluo.me/blog/cordic/)
-- [我们常见的地图是如何绘制的？墨卡托投影是什么？](http://www.longluo.me/blog/the-mercator-projection/)
-- [5分钟掌握矩阵乘法的Strassen算法](http://www.longluo.me/blog/strassens-matrix-multiplication-algorithm/)
-- [最短路径问题：重新发明 Dijkstra 算法](http://www.longluo.me/blog/dijkstra/)
-- [9种求斐波那契数(Fibonacci Numbers)的算法](http://www.longluo.me/blog/program-for-nth-fibonacci-number/)
-- [超大数字的四则运算是如何实现的呢？](http://www.longluo.me/blog/large-number-arithmetic/)
-- [9 Approaches to Solve LeetCode 287 Problem](http://www.longluo.me/blog/leetcode-find-the-duplicate-number/)
-- [大数乘法的快速傅里叶变换(FFT) 和 快速数论变换(NTT)解法](http://www.longluo.me/blog/leetcode-multiply-strings/)
+- [参数归约算法(Argument Reduction)：如何在浮点数环境下计算超大数字的三角函数值？](https://www.longluo.me/blog/argument-range-reduction/) 
+- [CORDIC算法：一种高效计算三角函数值的方法](https://www.longluo.me/blog/cordic/)
+- [我们常见的地图是如何绘制的？墨卡托投影是什么？](https://www.longluo.me/blog/the-mercator-projection/)
+- [5分钟掌握矩阵乘法的Strassen算法](https://www.longluo.me/blog/strassens-matrix-multiplication-algorithm/)
+- [最短路径问题：重新发明 Dijkstra 算法](https://www.longluo.me/blog/dijkstra/)
+- [9种求斐波那契数(Fibonacci Numbers)的算法](https://www.longluo.me/blog/program-for-nth-fibonacci-number/)
+- [超大数字的四则运算是如何实现的呢？](https://www.longluo.me/blog/large-number-arithmetic/)
+- [9 Approaches to Solve LeetCode 287 Problem](https://www.longluo.me/blog/leetcode-find-the-duplicate-number/)
+- [大数乘法的快速傅里叶变换(FFT) 和 快速数论变换(NTT)解法](https://www.longluo.me/blog/leetcode-multiply-strings/)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
